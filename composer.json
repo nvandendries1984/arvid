@@ -1,0 +1,8 @@
+{
+    "name": "nielsvandendries/arvid-theme",
+    "type": "october-theme",
+    "description": "Arvid is an Old Norse name that combines two words: arn (\"eagle\") and vidr (\"wood\" or \"tree\").",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
